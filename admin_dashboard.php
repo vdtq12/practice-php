@@ -4,7 +4,5 @@
         exit();
     }
 
-    require "components/loadDoc.php";
-    require "components/select_country.php";
+    echo "this is admin dashboard";
 ?>
-

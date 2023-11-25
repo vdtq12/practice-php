@@ -1,7 +1,3 @@
-.nav .nav-item {
-    margin: auto;
-}
-
-.nav{
-    margin: 0 40vw;
+#searchResults li:hover {
+  background-color: lightgray;
 }
